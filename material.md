@@ -22,7 +22,7 @@ Sammlung weiterer Materialien zu den Themen des Moduls.
 Massive Open Online Courses.
 
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)   — Eine hilfreiche Ressource zum Thema Mensch-zentrierte KI.
-- [DeepLearning.AI](https://www.deeplearning.ai/)  
+- [DeepLearning.AI](https://www.deeplearning.ai/)   — Eine hilfreiche Ressource zum Thema Mensch-zentrierte KI.
 - [DataCamp](https://www.datacamp.com/)   — Eine hilfreiche Ressource zum Thema Mensch-zentrierte KI.
 - [edX](https://www.edx.org/)   — Eine hilfreiche Ressource zum Thema Mensch-zentrierte KI.
 
